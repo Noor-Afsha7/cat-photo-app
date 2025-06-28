@@ -1,50 +1,45 @@
-# 📚 Book Catalog – Pure HTML Project
+# 🐾 CatPhotoApp – Pure HTML Project
 
-This is a beginner-friendly web project built entirely using **HTML only** (no CSS or JavaScript). It displays a structured catalog of some of my favorite books in the personal finance and self-help genre.
+This is a fun and beginner-friendly project built entirely using **pure HTML**, based on the [freeCodeCamp curriculum](https://www.freecodecamp.org/). It’s a mock website designed for cat lovers and showcases key HTML concepts like semantic structure, accessibility, image handling, and form elements.
 
 ## 🔧 Features
 
-- Clean and semantic HTML5 structure
-- Proper use of `<table>`, `<thead>`, `<tbody>`, and `<tfoot>`
-- Accessible `<caption>` to describe the table
-- Real-world book entries with author, genre, and publication year
-- Simple and lightweight – no external dependencies
+- ✅ Semantic HTML5 elements (`<main>`, `<section>`, `<figure>`, `<footer>`)
+- ✅ Lists (`<ul>` and `<ol>`) with cat-related items
+- ✅ Embedded images with descriptive `alt` attributes
+- ✅ Accessible and well-structured form using:
+  - `<fieldset>` and `<legend>`
+  - Radio buttons and checkboxes with proper labels
+  - Required text input with placeholder
+- ✅ External links and image links with proper usage
+- ✅ Footer with attribution
 
-## 📚 Books Included
+## 📁 Files Included
 
-- Rich Dad Poor Dad – Robert Kiyosaki & Sharon Lechter
-- Think and Grow Rich – Napoleon Hill
-- Atomic Habits – James Clear
-- The 48 Laws of Power – Robert Greene
-- Ikigai – Francesc Miralles & Hector Garcia
-- The Psychology of Money – Morgan Housel
+- `index.html` – Entire HTML structure of the project
 
-## 📁 File
+## 🚀 How to Use
 
-- `index.html` – Contains the entire project
+1. Clone or download the repository
+2. Open `index.html` in your web browser
+3. Enjoy the cuteness of cats 🐱 and the clean HTML structure
 
-## ✅ Accessibility Highlights
+## 🎯 Purpose
 
-- Proper table semantics for screen readers
-- Clear labeling of headers and content structure
-- Caption provided for table context
+This project was built as part of my learning journey in web development. It helped me strengthen core HTML skills, including:
+- Semantic markup
+- Accessibility best practices
+- Form creation and structure
+- Organizing real content in a user-friendly way
+
+## 🌐 Live Preview
+
+(You can host this file using GitHub Pages or Netlify and drop the link here.)
+
+## 👩‍💻 Made By
+
+**Noor Afsha**  
+
 
 ---
-
-## 📌 Getting Started
-
-1. Clone or download this repository
-2. Open `index.html` in your browser
-
----
-
-## 🧠 Purpose
-
-This project is part of my learning journey to build strong foundations in web development, with a focus on writing clean and accessible HTML.
-
----
-
-## 📬 Contact
-
-Made with 💻 by **Noor Afsha**  
 
